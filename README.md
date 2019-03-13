@@ -1,4 +1,3 @@
 # BrightID-Foundation
-Procedures for Governing BrightID.
-
-Also procedures for changing code that affects the entire network. 
+* Procedures for Governing BrightID.
+* Procedures for changing code that affects the entire network. 
