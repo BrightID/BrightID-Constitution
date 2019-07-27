@@ -5,7 +5,7 @@ This documents describes the governance of BrightID's open-source base layer.
 
 1. Pushing code changes that affect the BrightID network in general
     1. To enable this, we need to restrict pushes to release branches to the DAO's agent
-1. Deployment of the reference app and BrightID's nodes (NodeOne)
+1. Deployment of the [reference app](https://github.com/BrightID/BrightID) and [BrightID's nodes](https://github.com/BrightID/BrightID-Node) (NodeOne)
     1. These functions need to be restricted to the DAO's agent.
 1. Voting in other organizations
     1. Aragon Governance DAOs using ANT tokens.
