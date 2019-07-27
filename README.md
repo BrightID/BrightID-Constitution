@@ -1,4 +1,5 @@
 #BrightID-Constitution
+
 This documents describes the governance of BrightID's open-source base-layer.
 
 [BrightID's Aragon DAO](https://mainnet.aragon.org/#/brightid) will be used for the following responsibilities.
