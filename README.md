@@ -12,5 +12,5 @@ This documents describes the governance of BrightID's open-source base layer.
     1. Panvala Grants using PAN tokens.
 1. Managing BrightID's cryptocurrency finances
     1. [Here is a description of the structure of BrightID's main DAO and sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
-1. Ammending this document
+1. Amending this document
     1. To enable this, we need to restrict pushes to the DAO's agent.
