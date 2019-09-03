@@ -20,7 +20,7 @@ The BrightID Main DAO will be used for the following responsibilities.
 1. The member must be willing to devote time (without pay) to deliberating and voting on issues in the BrightID Main DAO.
 1. Personal details about a member must be well known and the member must be willing to make those details public.
 1. Affiliations with outside interests must be taken into account with regard to existing members. No faction based on an affiliation with an outside interest should compose half or nearly half of the members. This protects the BrightID Main DAO against takeover by an outside interest group.
-### Member Registry
-Information about members is kept in a public registry. Members of the BrightID Main DAO must therefore be willing to make details about themselves publicly available. Keeping information such as location and affiliations with other organizations public makes it easier to guard against takeover by a faction of members.
+### [Member Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
+Information about members is kept in a [public registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing). Members of the BrightID Main DAO must therefore be willing to make details about themselves publicly available. Keeping information such as location and affiliations with other organizations public makes it easier to guard against takeover by a faction of members.
 ### No Compensation or Reward
 Members are not compensated for deliberation and voting. Membership doesn't entitle a member to any share of assets held by the BrightID Main DAO.
