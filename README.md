@@ -1,5 +1,5 @@
 # BrightID-Constitution
-This document describes the governance of BrightID's open-source network through [the BrightID Main DAO](https://nightly.aragon.org/#/brightid).
+This document outlines the responsibilities of [the BrightID Main DAO](https://nightly.aragon.org/#/brightid) in governing BrightID's open-source network.
 
 The BrightID Main DAO will be used for the following responsibilities.
 
