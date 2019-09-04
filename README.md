@@ -23,7 +23,7 @@ BrightID Main DAO will be used for the following responsibilities.
     1. Location
     1. BrightID public key
     1. Affiliations to other organizations
-1. Affiliations to other organizations must be taken into account with regard to existing members. No group of members with a shared external affiliation should compose half or nearly half of the members. This protects the BrightID Main DAO against takeover by an outside group.
+1. Affiliations to other organizations must be taken into account with regard to existing members. No group of members with a shared external affiliation should compose half or nearly half of the members. This protects the BrightID Main DAO against a takeover by an outside group.
 ### [Member Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
 Information about members is kept in a [public registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing). 
 ### No Compensation or Reward
