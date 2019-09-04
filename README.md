@@ -21,7 +21,7 @@ BrightID Main DAO will be used for the following responsibilities.
 1. A member must be willing to make certain personal details public.
     1. Full name
     1. Location
-    1. Brightid public key
+    1. BrightID public key
     1. Affiliations to other organizations
 1. Affiliations to other organizations must be taken into account with regard to existing members. No group of members with a shared external affiliation should compose half or nearly half of the members. This protects the BrightID Main DAO against takeover by an outside group.
 ### [Member Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
