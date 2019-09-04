@@ -1,19 +1,19 @@
 # BrightID-Constitution
 This document outlines the responsibilities of [the BrightID Main DAO](https://nightly.aragon.org/#/brightid) in governing BrightID's open-source network.
 
-The BrightID Main DAO will be used for the following responsibilities.
+BrightID Main DAO will be used for the following responsibilities.
 
 1. Pushing code changes that affect the BrightID network in general
-    1. To enable this, we need to restrict pushes to release branches to the BrightID Main DAO's agent.
+    1. To enable this, we need to restrict pushes to release branches to BrightID Main DAO's agent.
 1. Deployment of the [reference app](https://github.com/BrightID/BrightID) and [BrightID's nodes](https://github.com/BrightID/BrightID-Node) (NodeOne)
-    1. These functions need to be restricted to the BrightID Main DAO's agent (or automatically triggered by pushes).
+    1. These functions need to be restricted to BrightID Main DAO's agent (or automatically triggered by pushes).
 1. Voting in other organizations
     1. Aragon Governance DAOs using ANT tokens.
     1. Panvala Grants using PAN tokens.
 1. Managing BrightID's cryptocurrency finances
     1. [Here is a description of the structure of the BrightID Main DAO and sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
 1. Amending this document
-    1. To enable this, we need to restrict pushes to the BrightID Main DAO's agent.
+    1. To enable this, we need to restrict pushes to BrightID Main DAO's agent.
 
 ## Membership
 ### Requirements
