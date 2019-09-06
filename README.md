@@ -27,4 +27,4 @@ BrightID Main DAO will be used for the following responsibilities.
 ### [Member Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
 Information about members is kept in a [public registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing). 
 ### No Compensation or Reward
-Members are not compensated for deliberation and voting. Membership doesn't entitle a member to any share of assets held by the BrightID Main DAO.
+Members are not compensated for deliberation and voting. Membership does not entitle a member to any share of assets held by the BrightID Main DAO.
