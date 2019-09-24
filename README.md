@@ -12,7 +12,7 @@ BrightID Main DAO will be used for the following responsibilities.
     1. Panvala Grants using PAN tokens.
 1. Managing BrightID's cryptocurrency finances
     1. [Here is a description of the structure of the BrightID Main DAO and sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
-1. Setting choice of token and price used for purchasing a sponsorship through the sponsorship smart contract. The initial token and price will be 1 DAI, but those parameters will need to change due to scalability issues and inflation. The following guidelines apply.
+1. Setting the token and price used for purchasing a sponsorship through the sponsorship smart contract. The initial token and price will be 1 DAI, but that will need to change due to scalability issues and inflation. The following guidelines apply.
     1. The choice of token should allow BrightID to grow to global scale.
     1. The price should be adjusted occasionally to match inflation in the greater economy.
 1. Amending this document
