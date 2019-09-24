@@ -12,7 +12,9 @@ BrightID Main DAO will be used for the following responsibilities.
     1. Panvala Grants using PAN tokens.
 1. Managing BrightID's cryptocurrency finances
     1. [Here is a description of the structure of the BrightID Main DAO and sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
-1. Setting the price of [BRT](https://docs.google.com/document/d/1Y5WGDREbp_qnoJQs8uSga6U7JI3f3sGQ6ru-Xv8oo7I/edit?usp=sharing) with the goal of keeping the cost stable with regard to inflation. Also setting the token accepted by the smart contract as payment for BRT. 
+1. Setting choice of token and price used for purchasing a sponsorship through the sponsorship smart contract. The initial token and price will be 1 DAI, but those parameters will need to change due to scalability issues and inflation. The following guidelines apply.
+    1. The choice of token should allow BrightID to grow to global scale.
+    1. The price should be adjusted occasionally to match inflation in the greater economy.
 1. Amending this document
     1. To enable this, we need to restrict pushes to BrightID Main DAO's agent.
 
