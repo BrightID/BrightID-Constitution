@@ -7,9 +7,6 @@ BrightID Main DAO will be used for the following responsibilities.
     1. To enable this, we need to restrict pushes to release branches to BrightID Main DAO's agent.
 1. Deployment of the [reference app](https://github.com/BrightID/BrightID) and [BrightID's nodes](https://github.com/BrightID/BrightID-Node) (NodeOne)
     1. These functions need to be restricted to BrightID Main DAO's agent (or automatically triggered by pushes).
-1. Voting in other organizations
-    1. Aragon Governance DAOs using ANT tokens.
-    1. Panvala Grants using PAN tokens.
 1. Managing BrightID's cryptocurrency finances
     1. [Here is a description of the structure of the BrightID Main DAO and sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
 1. Setting the token and price used for purchasing sponsorships through the sponsorship smart contract. The initial token and price will be 1 DAI, but that will need to change due to scalability issues and inflation. The following guidelines apply.
