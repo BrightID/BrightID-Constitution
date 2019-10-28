@@ -17,6 +17,7 @@ BrightID Main DAO will be used for the following responsibilities.
 
 ## Membership
 ### Requirements
+1. A member, by their continued membership--as evinced by their membership token, agrees to the terms of this constitution. A member may renounce their membership at any time by proposing a vote to revoke their membership token.
 1. A member must be willing to devote time (without pay) to deliberating and voting on issues in the BrightID Main DAO.
 1. A member must be willing to make certain personal details public.
     1. Full name
