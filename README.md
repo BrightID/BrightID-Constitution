@@ -1,19 +1,20 @@
 # BrightID-Constitution
-This document outlines the responsibilities of [the BrightID Main DAO](https://mainnet.aragon.org/#/brightid) in governing BrightID's open-source network.
+This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** in governing BrightID's open-source network ("BrightID").
 
-BrightID Main DAO will be used for the following responsibilities.
-
-1. Pushing code changes that affect the BrightID network in general
-    1. To enable this, we need to restrict pushes to release branches to BrightID Main DAO's agent.
-1. Deployment of the [reference app](https://github.com/BrightID/BrightID) and [BrightID's nodes](https://github.com/BrightID/BrightID-Node) (NodeOne)
-    1. These functions need to be restricted to BrightID Main DAO's agent (or automatically triggered by pushes).
+## Responsibilities of BrightID Main DAO
+1. Pushing code changes that affect BrightID in general
+    1. To enable this, we need to restrict pushes to release branches to BrightID Main DAO's agent app.
+1. Deployment of the [reference app](https://github.com/BrightID/BrightID) and at least one [BrightID node](https://github.com/BrightID/BrightID-Node).
+    1. These functions need to be restricted to BrightID Main DAO's agent app (or automatically triggered by pushes).
 1. Managing BrightID's cryptocurrency finances
-    1. [Here is a description of the structure of the BrightID Main DAO and sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
+    1. This includes directing funds from [BrightID Main DAO to sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
 1. Setting the token and price used for purchasing sponsorships through the sponsorship smart contract. The initial token and price will be 1 DAI, but that will need to change due to scalability issues and inflation. The following guidelines apply.
     1. The choice of token should allow BrightID to grow to global scale.
     1. The price should be adjusted occasionally to match inflation in the greater economy.
+1. Refunding income
+    1. BrightID Main DAO is a non-profit organization. Income beyond what is needed to support BrightID will be redistributed equally to all sponsored BrightID users.
 1. Amending this document
-    1. To enable this, we need to restrict pushes to BrightID Main DAO's agent.
+    1. To enable this, we need to restrict pushes to BrightID Main DAO's agent app.
 
 ## Membership
 ### Requirements
