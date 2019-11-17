@@ -1,5 +1,5 @@
 # BrightID-Constitution
-This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** and its several members in governing BrightID's open-source network ("BrightID").
+This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** in governing BrightID's open-source network ("BrightID") and [rules for members](#membership) of BrightID Main DAO.
 
 ## Responsibilities of BrightID Main DAO
 Actions are decided by a vote of a membership and enacted by [BrightID Main DAO's software](https://mainnet.aragon.org/#/brightid), including its [agent app](https://mainnet.aragon.org/#/brightid/apps/).
@@ -15,7 +15,7 @@ Actions are decided by a vote of a membership and enacted by [BrightID Main DAO'
     1. The price should be adjusted occasionally to match inflation in the greater economy.
 1. Refunding income
     1. BrightID Main DAO is a non-profit organization. Income beyond what is needed to support BrightID will be redistributed equally to all sponsored BrightID users.
-1. Adding or removing [members](https://github.com/BrightID/BrightID-Constitution#membership)
+1. Adding or removing [members](#membership)
 1. Amending this document
     1. Currently delegated to [members of the github organization](https://github.com/orgs/BrightID/people), who will eventually transfer control to BrightID Main DAO's agent app.
 
