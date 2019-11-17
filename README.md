@@ -1,5 +1,5 @@
 # BrightID-Constitution
-This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** in governing BrightID's open-source network ("BrightID") and [rules for its members](#membership).
+This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** in governing BrightID's open-source network ("BrightID") and [requirements for its members](#membership).
 
 ## Responsibilities of BrightID Main DAO
 Actions are decided by a vote of a membership and enacted by [BrightID Main DAO's software](https://mainnet.aragon.org/#/brightid), including its [agent app](https://mainnet.aragon.org/#/brightid/apps/).
