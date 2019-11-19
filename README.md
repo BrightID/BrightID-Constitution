@@ -5,13 +5,13 @@ This document outlines the responsibilities of ***[BrightID Main DAO](https://ma
 Actions are decided by a vote of the membership and enacted by [BrightID Main DAO's software](https://mainnet.aragon.org/#/brightid), including its [agent app](https://mainnet.aragon.org/#/brightid/apps/).
 
 1. Managing BrightID's cryptocurrency finances
-    1. This includes directing funds from [BrightID Main DAO to sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
-1. Setting the token and price used for purchasing sponsorships through the sponsorship smart contract. The initial token and price will be 1 [DAI](https://makerdao.com/en/), but that may change in light of scalability issues or inflation. The following guidelines apply.
+    1. Directing funds from [BrightID Main DAO to sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
+    1. Refunding income
+        1. BrightID Main DAO is a non-profit organization. Income beyond what is needed to support BrightID will be redistributed equally to all sponsored BrightID users.
+1. Setting the token and price used for purchasing sponsorships through the [sponsorship smart contract](https://github.com/BrightID/Sponsorship-Subscriptions-SmartContracts). The initial token and price will be 1 [DAI](https://makerdao.com/en/), but that may change in light of scalability issues or inflation. The following guidelines apply.
     1. The choice of token should allow BrightID to grow to global scale.
     1. The price should be adjusted occasionally to match inflation in the greater economy.
-1. Refunding income
-    1. BrightID Main DAO is a non-profit organization. Income beyond what is needed to support BrightID will be redistributed equally to all sponsored BrightID users.
-1. Adding or removing [members](#membership)
+1. Adding and removing [members](#membership)
 1. Amending this document
     1. Currently delegated to [members of the github organization](https://github.com/orgs/BrightID/people), who will eventually transfer control to BrightID Main DAO's agent app.
 
