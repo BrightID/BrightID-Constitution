@@ -2,7 +2,7 @@
 This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** in governing BrightID's open-source network ("BrightID") and [requirements for its members](#membership).
 
 ## Responsibilities of BrightID Main DAO
-Actions are decided by a vote of the membership and enacted by [BrightID Main DAO's software](https://mainnet.aragon.org/#/brightid), including its [agent app](https://mainnet.aragon.org/#/brightid/apps/).
+Actions are decided by a vote of the membership and enacted by [BrightID Main DAO's software](https://mainnet.aragon.org/#/brightid), including its [agent app](https://mainnet.aragon.org/#/brightid/apps/). The responsibilities of BrightID Main DAO are as follows.
 
 1. Managing BrightID's cryptocurrency finances
     1. Directing funds from [BrightID Main DAO to sub-DAOs.](https://docs.google.com/document/d/1F8rrUcrAIsKEVmxvfx8sLf2JyqAmtoAmfssDwZ0b2TM/edit?usp=sharing)
