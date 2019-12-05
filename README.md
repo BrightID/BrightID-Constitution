@@ -22,7 +22,6 @@ Actions are decided by a vote of the membership and enacted by [BrightID Main DA
 1. A member must be willing to make certain personal details public.
     1. Ethereum address that holds their membership token
     1. BrightID
-    1. Name or Pseudonym
     1. Affiliations to other organizations
 1. Affiliations to other organizations must be taken into account with regard to existing members. No group of members with a shared external affiliation should compose half or nearly half of the members. This protects the BrightID Main DAO against a takeover by an outside group.
 ### [Member Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
