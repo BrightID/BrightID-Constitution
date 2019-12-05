@@ -20,9 +20,9 @@ Actions are decided by a vote of the membership and enacted by [BrightID Main DA
 1. A member, by their continued membership--as evinced by their [membership token](https://mainnet.aragon.org/#/brightid/0x983dd5e5ce0f33774f49666e00d6a820ff8d8a07/), agrees to the terms of this constitution. A member may renounce their membership at any time by proposing a vote to revoke their membership token.
 1. A member must be willing to devote time (without pay) to deliberating and voting on issues in the BrightID Main DAO.
 1. A member must be willing to make certain personal details public.
-    1. Full name
-    1. Location
+    1. Ethereum address used to interact with BrightID Main DAO
     1. BrightID
+    1. Name or Pseudonym
     1. Affiliations to other organizations
 1. Affiliations to other organizations must be taken into account with regard to existing members. No group of members with a shared external affiliation should compose half or nearly half of the members. This protects the BrightID Main DAO against a takeover by an outside group.
 ### [Member Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
