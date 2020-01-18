@@ -16,7 +16,7 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
     1. Currently delegated to [members of the github organization](https://github.com/orgs/BrightID/people), who will eventually transfer control to BrightID Main DAO's agent app.
 1. Determining suitable entity formation(s) and other organizational details necessary to order and protect the activities of BrightID.
 
-## Membership
+## Managers
 ### Requirements
 1. A manager, by their continued managership--as evinced by their [governance token](https://mainnet.aragon.org/#/brightid/0x983dd5e5ce0f33774f49666e00d6a820ff8d8a07/), agrees to the terms of this constitution. A manager may renounce their managership at any time by proposing a vote to revoke their Bright Main DAO governance token.
 1. A manager must be willing to devote time (without pay) to deliberating and voting on issues in the BrightID Main DAO.
