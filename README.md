@@ -19,7 +19,7 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
 ## Managers
 ### Requirements
 1. A manager, by their continued managership--as evinced by their [governance token](https://mainnet.aragon.org/#/brightid/0x983dd5e5ce0f33774f49666e00d6a820ff8d8a07/), agrees to the terms of this constitution. A manager may renounce their managership at any time by proposing a vote to revoke their Bright Main DAO governance token.
-1. A manager must be willing to devote time (without pay) to deliberating and voting on issues in the BrightID Main DAO.
+1. A manager must be willing to devote time ([without pay](#no-compensation-or-reward)) to deliberating and voting on issues in the BrightID Main DAO.
 1. A manager must be willing to make certain personal details public.
     1. Ethereum address that holds their governance token
     1. BrightID
@@ -28,4 +28,4 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
 ### [Manager Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
 Information about managers is kept in a [public registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing). 
 ### No Compensation or Reward
-Managers are not compensated for deliberation and voting. Managership does not entitle a manager to any share of assets held by the BrightID Main DAO. For the avoidance of doubt, the voting managers of BrightID Main DAO should be treated as managing agents of the organization and not constitute economic members of BrightID and its affiliates.
+Managers are not compensated for deliberation and voting. Managership does not entitle a manager to any share of assets held by BrightID Main DAO. For the avoidance of doubt, the voting managers of BrightID Main DAO should be treated as managing agents of the organization and not constitute economic members of BrightID Main LLC and its affiliates.
