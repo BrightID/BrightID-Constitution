@@ -22,7 +22,6 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
 1. A manager must be willing to devote time ([without pay](#no-compensation-or-reward)) to deliberating and voting on issues in the BrightID Main DAO.
 1. A manager must be willing to make certain personal details public:
     1. Ethereum address that holds their governance token
-    1. BrightID
     1. Affiliations to other organizations
 1. Affiliations to other organizations must be taken into account with regard to existing managers. No group of managers with a shared external affiliation should compose half or nearly half of the managers. This protects the BrightID Main DAO against a takeover by an outside group.
 ### [Manager Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
