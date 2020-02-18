@@ -27,4 +27,4 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
 ### [Manager Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
 Information about managers is kept in a [public registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing). 
 ### No Compensation or Reward
-Managers are not compensated for deliberation and voting. Managership does not entitle a manager to any share of assets held by BrightID Main DAO or BrightID. For the avoidance of doubt, the voting managers of BrightID Main DAO should be treated as managing agents of the organization and not constitute economic members of BrightID Main LLC and its affiliates.
+Managers are not compensated for deliberation and voting. Managership does not entitle a manager to any share of assets held by BrightID Main DAO or BrightID Main LLC. For the avoidance of doubt, the voting managers of BrightID Main DAO should be treated as managing agents of the organization and not constitute economic members of BrightID Main LLC and its affiliates.
