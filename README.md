@@ -1,6 +1,8 @@
 # BrightID-Constitution
 This document outlines the responsibilities of ***[BrightID Main DAO](https://mainnet.aragon.org/#/brightid)*** in supporting BrightID's open-source network on behalf of BrightID Main LLC ("BrightID") and [requirements for its managers](#requirements).
 
+[Ratified by BrightID Main DAO Feb 19, 2020](https://nightly.aragon.org/#/brightid/0xe30d9338e3ef73797bbb9ab912db740cc65e304a/vote/58/)
+
 ## Responsibilities of BrightID Main DAO
 Actions are decided by a vote of the managers and enacted by [BrightID Main DAO's software](https://mainnet.aragon.org/#/brightid), including its [agent app](https://mainnet.aragon.org/#/brightid/apps/). The responsibilities of BrightID Main DAO are as follows:
 
@@ -28,9 +30,3 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
 Information about managers is kept in a [public registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing). 
 ### No Compensation or Reward
 Managers are not compensated for deliberation and voting. Managership does not entitle a manager to any share of assets held by BrightID Main DAO or BrightID Main LLC. For the avoidance of doubt, the voting managers of BrightID Main DAO should be treated as managing agents of the organization and not constitute economic members of BrightID Main LLC and its affiliates.
-
-# Version History 
-### Original Constituion first ratified by BrightID Main DAO on 2-19-2020 by Vote #58
-https://nightly.aragon.org/#/brightid/0xe30d9338e3ef73797bbb9ab912db740cc65e304a/vote/58/
-
-
