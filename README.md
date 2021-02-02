@@ -20,10 +20,10 @@ Actions are decided by a vote of the managers and enacted by [BrightID Main DAO'
 
 ## Managers
 ### Requirements
-1. A manager, by their continued managership--as evinced by their [governance token](https://mainnet.aragon.org/#/brightid/0x983dd5e5ce0f33774f49666e00d6a820ff8d8a07/), agrees to the terms of this constitution. A manager may renounce their managership at any time by proposing a vote to revoke their Bright Main DAO governance token.
+1. A manager, by their continued managership--as evinced by a non-zero governance token balance (as recorded on the [Ethereum](https://mainnet.aragon.org/#/brightid/0x983dd5e5ce0f33774f49666e00d6a820ff8d8a07/) and [IDChain](https://aragon.idchain.one/#/brightid/0xf952e884b5a5686c39cdc84404dcace96b1718f6/) blockchains), agrees to the terms of this constitution. A manager may renounce their managership at any time by proposing a vote to revoke their governance tokens.
 1. A manager must be willing to devote time ([without pay](#no-compensation-or-reward)) to deliberating and voting on issues in the BrightID Main DAO.
 1. A manager must be willing to make certain personal details public:
-    1. Ethereum address that holds their governance token
+    1. Ethereum address that holds their governance tokens
     1. Affiliations to other organizations
 1. Affiliations to other organizations must be taken into account with regard to existing managers. No group of managers with a shared external affiliation should compose half or nearly half of the managers. This protects the BrightID Main DAO against a takeover by an outside group.
 ### [Manager Registry](https://docs.google.com/spreadsheets/d/1z75VFvDPQK5oFmqpQ8vE_KUkHUSKdobNCchQR-gtPec/edit?usp=sharing)
